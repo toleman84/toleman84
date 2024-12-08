@@ -17,6 +17,5 @@ You can click the Preview link to take a look at your changes.
 
 - [linkedIn](https://www.linkedin.com/in/gdpm/)
 - [instagram](https://instagram.com/sprinteruy)
-- [portfolio](https://github.com/tu-usuario/tu-portafolio)
 
 ---
